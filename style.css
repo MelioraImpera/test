@@ -1,0 +1,27 @@
+
+.carousel .carousel-inner .carousel-item img{
+    max-height: 800px;
+    margin: 0 auto;
+}
+
+.iniciotitulo{
+    width: 100%;
+    height: 900px;
+    background-image: url(img/Tendiencias-de-eposrts-y-gaming-2022.jpg);
+    background-size: cover;
+    background-position: 1%;
+    position: relative;
+    background-attachment: fixed;
+}
+
+.iniciotitulo h1{
+    text-align: center;
+    padding-top: 400px;
+    color: white;
+    text-shadow: 4px 4px 8px black;
+}
+
+.gameplay{
+    align-content: center;
+}
+
